@@ -72,13 +72,14 @@
         </div>
         <div class="section group">
             <div class="col span_2_of_2">
-				<h1>een tutorial</h1>
+				<h1>Beschrijving</h1>
+				In principe is het Responsive Grid System geen framework, het is een makkelijke manier om een responsive website te maken.<br> Je kan zelf kiezen hoeveel kolommen je wil gaan gebruiken voor de website.<br> Je bent niet gelimiteerd aan een aantal kolommen over een hele webpagina.<br> Nog een voordeel is dat deze framework zich automatisch aanpast aan het formaat van je webbrowser.<br> Er zit ook automatisch een zogenoemd mobile grid ingebakken zodat de webpagina zich automatisch aanpast aan het formaat van je webbrowser.<br> Het is mogelijk om de HTML template van hun website af te halen zodat je deze kan gebruiken voor je eigen webpagina. <br>
             </div>
         </div>
         <div class="section group">
             <div class="col span_2_of_2">
 				<h1>een tutorial</h1>
-            <a href="tutorial.php"><img src="img/New-Tutorial-oat.jpg" alt=""></a>
+            <a href="tutorial.php"><img src="img/tutorial.jpg" alt=""></a>
             </div>
         </div>
         <div class="section group">

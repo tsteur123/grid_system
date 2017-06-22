@@ -63,22 +63,27 @@
 </head>
     <body>
         <div class="section group">
+			// in de class kun je selecteren hoeveel collomen je wil gebruiken hier gebruik je 1 van de 3
             <div class="col span_1_of_3">
             <img src="img/logo.png" alt="" class="img" style="width: 25%">
             </div>
+			// in de class kun je selecteren hoeveel collomen je wil gebruiken hier gebruik je 2 van de 3
             <div class="col span_2_of_3">
             <h1>Responsive grid system</h1>
             </div>
         </div>
         <div class="section group">
+			// in de class kun je selecteren hoeveel collomen je wil gebruiken hier gebruik je 2 van de 2
             <div class="col span_2_of_2">
-				<h1>een tutorial</h1>
+				<h1>nadelen</h1>
+				Er zitten niet echt nadelen aan dit design.<br> Het is gebruiksvriendelijk maar ook moet je rekening houden met het design van de website omdat als je het grafisch te zwaar maakt dat niet alle apparaten de webpagina goed kunnen weergeven.<br> Nog een nadeel is dat het een lange ontwikkeltijd heeft ondanks dat je de codes van de website af kan halen.<br> Daarnaast als je een website hebt met veel webinhoud is het ook lastiger omdat je zelf nog heel veel moet toevoegen door middle van de html code.<br> Maar ook het design met kleuren en finetuning in de CSS kan ook veel tijd gaan vergen.
             </div>
         </div>
         <div class="section group">
+			// in de class kun je selecteren hoeveel collomen je wil gebruiken hier gebruik je 2 van de 2
             <div class="col span_2_of_2">
 				<h1>een tutorial</h1>
-            <a href="tutorial.php"><img src="img/New-Tutorial-oat.jpg" alt=""></a>
+            <a href="tutorial.php"><img src="img/tutorial.jpg" alt=""></a>
             </div>
         </div>
         <div class="section group">

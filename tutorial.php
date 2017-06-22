@@ -78,7 +78,7 @@
         <div class="section group">
             <div class="col span_2_of_2">
 				<h1>een tutorial</h1>
-            <a href="tutorial.php"><img src="img/New-Tutorial-oat.jpg" alt=""></a>
+            <a href="tutorial.php"><img src="img/tutorial.jpg" alt=""></a>
             </div>
         </div>
         <div class="section group">

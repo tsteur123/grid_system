@@ -72,13 +72,14 @@
         </div>
         <div class="section group">
             <div class="col span_2_of_2">
-				<h1>een tutorial</h1>
+				<h1>voordelen</h1>
+				Een van de voordelen van dit systeem is dat je de hele html code kan kopieren en dat je daarna zelf je eigen informatie in kan vullen naar eigen input.<br> Alle code die wordt geschreven en die je gebruikt is geschreven in html5 en maakt daarnaast gebruik van CSS om de pagina er zo vloeiend mogelijk eruit te laten zien. 
             </div>
         </div>
         <div class="section group">
             <div class="col span_2_of_2">
 				<h1>een tutorial</h1>
-            <a href="tutorial.php"><img src="img/New-Tutorial-oat.jpg" alt=""></a>
+            <a href="tutorial.php"><img src="img/tutorial.jpg" alt=""></a>
             </div>
         </div>
         <div class="section group">
